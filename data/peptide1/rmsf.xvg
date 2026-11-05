@@ -1,0 +1,32 @@
+# This file was created Thu Jul 18 09:27:28 2024
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2020.5 (-:
+# 
+# Executable:   /storage/icds/RISE/sw8/gromacs-2020.5/install_dir/bin/gmx
+# Data prefix:  /storage/icds/RISE/sw8/gromacs-2020.5/install_dir
+# Working dir:  /storage/group/yjz5549/default/ishita_emulsion/ola/seq1
+# Command line:
+#   gmx rmsf -s md.tpr -f md.xtc -o rmsf.xvg
+# gmx rmsf is part of G R O M A C S:
+#
+# GROtesk MACabre and Sinister
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Atom"
+@    yaxis  label "(nm)"
+@TYPE xy
+    5   0.4577
+   20   0.3504
+   44   0.2984
+   51   0.2346
+   63   0.2928
+   77   0.2906
+   96   0.2971
+  118   0.3036
+  139   0.2091
+  151   0.3266
+  161   0.3390
+  168   0.2451
+  182   0.2697
+  201   0.3826
+  211   0.5559

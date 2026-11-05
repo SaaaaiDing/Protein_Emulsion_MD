@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite the associated article."
+type: dataset
+title: "Protein–Emulsion MD: Figure 6 and selected original analysis data"
+authors:
+  - family-names: Ghosh
+    given-names: Ishita
+  - family-names: Ding
+    given-names: Saisai
+  - family-names: Zhang
+    given-names: Yi
+repository-code: "https://github.com/SaaaaiDing/Protein_Emulsion_MD"
+preferred-citation:
+  type: article
+  title: "Amphiphilic food polypeptides via moderate enzymatic hydrolysis of chickpea proteins: Bioprocessing, properties, and molecular mechanism"
+  authors:
+    - family-names: Ghosh
+      given-names: Ishita
+    - family-names: Ding
+      given-names: Saisai
+    - family-names: Zhang
+      given-names: Yi
+  year: 2025
+  journal: Food Chemistry
+  volume: "478"
+  start: "143602"
+  doi: 10.1016/j.foodchem.2025.143602

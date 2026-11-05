@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "checks": [
+    "All four article sequences exactly match local initial PDB CA records",
+    "All 12 XVG copies are byte-identical to source files and have two numeric columns",
+    "All four RMSD exports cover 0\u2013100 ns",
+    "Each RMSF table contains one row per peptide residue",
+    "Extracted Figure 6 visually checked against article panel labels A\u2013E",
+    "All relative Markdown links resolve",
+    "Original repository LICENSE retained unchanged"
+  ]
+}

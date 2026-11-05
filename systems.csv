@@ -1,0 +1,5 @@
+peptide,local_directory,sequence,length,article_id,hydrolysate,amphiphilicity,figure6_panel,sequence_source_sha256
+Peptide 1,ola/seq1,ERGDTIKLPAGTIAY,15,,CPPa-5 (alcalase),moderate,B,329ac481ded916b58945009d92a0b94cd292e656bdbf8a0629450e91d345fea5
+Peptide 2,ola/seq2,KVIVVGEGDVEEK,13,A2,CPPa-5 (alcalase),high,C,9420b89a1a33caa9e1ef8ac119c942baeb094267c57dc3a4e060dd9b37ef3d95
+Peptide 3,ola/seq3,SLLGFGINAQNNQR,14,T1,CPPt-15 (trypsin),high,D,f4afa1499b7698158a59155806bd31c7d246868493a00330294a21eb8f79eaf9
+Peptide 4,ola/seq4,LLAVIGGNNSPSAK,14,T20,CPPt-15 (trypsin),high,E,28b024ef3015110a5ee10d62682319e3178ac340cc5b0e6e99d9c3c7cbf2e0a2

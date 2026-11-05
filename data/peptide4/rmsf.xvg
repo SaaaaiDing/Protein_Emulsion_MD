@@ -1,0 +1,31 @@
+# This file was created Thu Jul 18 09:27:26 2024
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2020.5 (-:
+# 
+# Executable:   /storage/icds/RISE/sw8/gromacs-2020.5/install_dir/bin/gmx
+# Data prefix:  /storage/icds/RISE/sw8/gromacs-2020.5/install_dir
+# Working dir:  /storage/group/yjz5549/default/ishita_emulsion/ola/seq4
+# Command line:
+#   gmx rmsf -s md.tpr -f md.xtc -o rmsf.xvg
+# gmx rmsf is part of G R O M A C S:
+#
+# Good ROcking Metal Altar for Chronical Sinners
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Atom"
+@    yaxis  label "(nm)"
+@TYPE xy
+    5   0.4882
+   24   0.3478
+   43   0.2460
+   53   0.2656
+   69   0.2888
+   88   0.3516
+   95   0.4051
+  102   0.3174
+  116   0.2605
+  130   0.2602
+  143   0.3431
+  155   0.2684
+  166   0.3354
+  176   0.4426

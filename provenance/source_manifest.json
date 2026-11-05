@@ -1,0 +1,231 @@
+{
+  "article_doi": "10.1016/j.foodchem.2025.143602",
+  "source_collection": "ishita_emulsion",
+  "identity_evidence": "Article sections 2.11 and 3.6, Figure 6 caption, and initial_structure.pdb CA records",
+  "files": [
+    {
+      "file": "data/peptide1/rmsd.xvg",
+      "source": "ola/seq1/rmsd.xvg",
+      "sha256": "82e383ad922fc9d1c5a172161fcf2b078670c11663ec9648395b88e227be1f47",
+      "bytes": 260639,
+      "rows": 10001,
+      "first_x": 0.0,
+      "last_x": 100.0000076,
+      "header": [
+        "@    title \"RMSD\"",
+        "@    xaxis  label \"Time (ns)\"",
+        "@    yaxis  label \"RMSD (nm)\"",
+        "@TYPE xy",
+        "@ subtitle \"C-alpha after lsq fit to C-alpha\""
+      ]
+    },
+    {
+      "file": "data/peptide1/rmsf.xvg",
+      "source": "ola/seq1/rmsf.xvg",
+      "sha256": "421888b535a5c0d4505d4264015cd1d780a18a97636e1e4acd78e18db2832f88",
+      "bytes": 783,
+      "rows": 15,
+      "first_x": 5.0,
+      "last_x": 211.0,
+      "header": [
+        "@    title \"RMS fluctuation\"",
+        "@    xaxis  label \"Atom\"",
+        "@    yaxis  label \"(nm)\"",
+        "@TYPE xy"
+      ]
+    },
+    {
+      "file": "data/peptide1/rdf.xvg",
+      "source": "ola/seq1/rdf.xvg",
+      "sha256": "df67d59480cf79129cf878135c9a3c89e95dbb4f45bed8438b95ca84866b0d8f",
+      "bytes": 28911,
+      "rows": 1342,
+      "first_x": 0.0,
+      "last_x": 2.682,
+      "header": [
+        "@    title \"Radial distribution\"",
+        "@    xaxis  label \"r (nm)\"",
+        "@    yaxis  label \"g(r)\"",
+        "@TYPE xy",
+        "@ subtitle \"reference C-alpha\"",
+        "@ view 0.15, 0.15, 0.75, 0.85",
+        "@ legend on",
+        "@ legend box on",
+        "@ legend loctype view",
+        "@ legend 0.78, 0.8",
+        "@ legend length 2",
+        "@ s0 legend \"ole\""
+      ]
+    },
+    {
+      "file": "data/peptide2/rmsd.xvg",
+      "source": "ola/seq2/rmsd.xvg",
+      "sha256": "bff5de2b5ee409ca352b06db5895709694137996ead76f794bbe237b01715afd",
+      "bytes": 260623,
+      "rows": 10001,
+      "first_x": 0.0,
+      "last_x": 100.0000076,
+      "header": [
+        "@    title \"RMSD\"",
+        "@    xaxis  label \"Time (ns)\"",
+        "@    yaxis  label \"RMSD (nm)\"",
+        "@TYPE xy",
+        "@ subtitle \"C-alpha after lsq fit to C-alpha\""
+      ]
+    },
+    {
+      "file": "data/peptide2/rmsf.xvg",
+      "source": "ola/seq2/rmsf.xvg",
+      "sha256": "a12e2199d002e0959f004f44ede8aada94c71fe67b9cf32cd7c52ddb52372930",
+      "bytes": 771,
+      "rows": 13,
+      "first_x": 5.0,
+      "last_x": 181.0,
+      "header": [
+        "@    title \"RMS fluctuation\"",
+        "@    xaxis  label \"Atom\"",
+        "@    yaxis  label \"(nm)\"",
+        "@TYPE xy"
+      ]
+    },
+    {
+      "file": "data/peptide2/rdf.xvg",
+      "source": "ola/seq2/rdf.xvg",
+      "sha256": "41e08558a784245d70f0ed3c0369768538fbcf1be648997c39211e979446db37",
+      "bytes": 24561,
+      "rows": 1134,
+      "first_x": 0.0,
+      "last_x": 2.266,
+      "header": [
+        "@    title \"Radial distribution\"",
+        "@    xaxis  label \"r (nm)\"",
+        "@    yaxis  label \"g(r)\"",
+        "@TYPE xy",
+        "@ subtitle \"reference C-alpha\"",
+        "@ view 0.15, 0.15, 0.75, 0.85",
+        "@ legend on",
+        "@ legend box on",
+        "@ legend loctype view",
+        "@ legend 0.78, 0.8",
+        "@ legend length 2",
+        "@ s0 legend \"ole\""
+      ]
+    },
+    {
+      "file": "data/peptide3/rmsd.xvg",
+      "source": "ola/seq3/rmsd.xvg",
+      "sha256": "63ed4db49cf0548f65010832fe18d460bf0ebc394dcabb3b1f7e861eb5e0c210",
+      "bytes": 260653,
+      "rows": 10001,
+      "first_x": 0.0,
+      "last_x": 100.0000076,
+      "header": [
+        "@    title \"RMSD\"",
+        "@    xaxis  label \"Time (ns)\"",
+        "@    yaxis  label \"RMSD (nm)\"",
+        "@TYPE xy",
+        "@ subtitle \"C-alpha after lsq fit to C-alpha\""
+      ]
+    },
+    {
+      "file": "data/peptide3/rmsf.xvg",
+      "source": "ola/seq3/rmsf.xvg",
+      "sha256": "31966205fb2038bbffb13b070f3c36627673332ee6a478b0001dfe3a096a2517",
+      "bytes": 804,
+      "rows": 14,
+      "first_x": 5.0,
+      "last_x": 193.0,
+      "header": [
+        "@    title \"RMS fluctuation\"",
+        "@    xaxis  label \"Atom\"",
+        "@    yaxis  label \"(nm)\"",
+        "@TYPE xy"
+      ]
+    },
+    {
+      "file": "data/peptide3/rdf.xvg",
+      "source": "ola/seq3/rdf.xvg",
+      "sha256": "514a08f5f668a42373ae0d2b1ffa4634379e4865ede0251f5e9b6be34979bd18",
+      "bytes": 32353,
+      "rows": 1504,
+      "first_x": 0.0,
+      "last_x": 3.006,
+      "header": [
+        "@    title \"Radial distribution\"",
+        "@    xaxis  label \"r (nm)\"",
+        "@    yaxis  label \"g(r)\"",
+        "@TYPE xy",
+        "@ subtitle \"reference C-alpha\"",
+        "@ view 0.15, 0.15, 0.75, 0.85",
+        "@ legend on",
+        "@ legend box on",
+        "@ legend loctype view",
+        "@ legend 0.78, 0.8",
+        "@ legend length 2",
+        "@ s0 legend \"ole\""
+      ]
+    },
+    {
+      "file": "data/peptide4/rmsd.xvg",
+      "source": "ola/seq4/rmsd.xvg",
+      "sha256": "949992eab9e6734b06dd27667c9f18266ffea39f9919e2f8aba128ed21788145",
+      "bytes": 260656,
+      "rows": 10001,
+      "first_x": 0.0,
+      "last_x": 100.0000076,
+      "header": [
+        "@    title \"RMSD\"",
+        "@    xaxis  label \"Time (ns)\"",
+        "@    yaxis  label \"RMSD (nm)\"",
+        "@TYPE xy",
+        "@ subtitle \"C-alpha after lsq fit to C-alpha\""
+      ]
+    },
+    {
+      "file": "data/peptide4/rmsf.xvg",
+      "source": "ola/seq4/rmsf.xvg",
+      "sha256": "5cc0fb8a8e655202738cca6e8f6556e78b8f6a9f14e02be59eb658654059683f",
+      "bytes": 786,
+      "rows": 14,
+      "first_x": 5.0,
+      "last_x": 176.0,
+      "header": [
+        "@    title \"RMS fluctuation\"",
+        "@    xaxis  label \"Atom\"",
+        "@    yaxis  label \"(nm)\"",
+        "@TYPE xy"
+      ]
+    },
+    {
+      "file": "data/peptide4/rdf.xvg",
+      "source": "ola/seq4/rdf.xvg",
+      "sha256": "cc4e29ec6b688cf326fe1385a8062a44b3c64f75b962a23df9572bd1bdc75d86",
+      "bytes": 32651,
+      "rows": 1519,
+      "first_x": 0.0,
+      "last_x": 3.036,
+      "header": [
+        "@    title \"Radial distribution\"",
+        "@    xaxis  label \"r (nm)\"",
+        "@    yaxis  label \"g(r)\"",
+        "@TYPE xy",
+        "@ subtitle \"reference C-alpha\"",
+        "@ view 0.15, 0.15, 0.75, 0.85",
+        "@ legend on",
+        "@ legend box on",
+        "@ legend loctype view",
+        "@ legend 0.78, 0.8",
+        "@ legend length 2",
+        "@ s0 legend \"ole\""
+      ]
+    },
+    {
+      "file": "figures/figure6_original.jpg",
+      "source": "1-s2.0-S0308814625008532-main.pdf; page 8; first image object",
+      "sha256": "7e6f37c8de6e409b9860ece2112cbedac5c5907f747c805945416d0e64578504",
+      "bytes": 1074194,
+      "treatment": "Original embedded JPEG extracted using pypdf; no redrawing, cropping or recompression",
+      "source_pdf_sha256": "9f50ad64316377fb42797ab941aaf6deee0fb99a993dd76e70edb5bb952df365"
+    }
+  ]
+}
